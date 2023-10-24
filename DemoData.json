@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "65381cdd528f2a4030629911"
+  },
+  "address": "Cần Thơ",
+  "favorite": true,
+  "email": "anhtan3332@gmail.com",
+  "name": "Lê Sỹ Anh Tấn",
+  "phone": "0907181823"
+},
+{
+  "_id": {
+    "$oid": "65381d0c528f2a4030629934"
+  },
+  "address": "Cần Thơ",
+  "phone": "0907181311",
+  "email": "vyvy@gmail.com",
+  "name": "Lâm Song Vy",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65382399528f2a4030629dea"
+  },
+  "address": "Cần Thở",
+  "phone": "0900000000",
+  "email": "nhan@gmail.com",
+  "name": "Cao Nguyễn Hoài Nhân",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "653823b6528f2a4030629dff"
+  },
+  "favorite": true,
+  "email": "thinh@gmail.com",
+  "name": "Lê Phú Thịnh",
+  "address": "Cần Thơ",
+  "phone": "090911011011"
+},
+{
+  "_id": {
+    "$oid": "653823db528f2a4030629e19"
+  },
+  "name": "Phan Phước Thịnh",
+  "email": "ppt@gmail.com",
+  "address": "Sài Thành",
+  "phone": "0901201210",
+  "favorite": false
+},
+{
+  "_id": {
+    "$oid": "65382407528f2a4030629e36"
+  },
+  "name": "Phạm Hoàng Phong",
+  "favorite": true,
+  "phone": "0312121210",
+  "email": "phong@gmail.com",
+  "address": "Sao Thuỷ"
+},
+{
+  "_id": {
+    "$oid": "6538245e528f2a4030629e7d"
+  },
+  "email": "tamne@gmail.com",
+  "favorite": true,
+  "name": "Nguyễn Minh Tâm",
+  "phone": "0900000000",
+  "address": "Sao Mộc"
+}]
