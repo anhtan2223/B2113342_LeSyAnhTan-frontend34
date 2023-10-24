@@ -1,4 +1,4 @@
-# Lab3_4
+# Bài Thực Hành LAB 3 + 4 - Thiết Kế FrontEnd cho Website Sổ Liên Lạc
 
 This template should help get you started developing with Vue 3 in Vite.
 
